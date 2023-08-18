@@ -9,6 +9,7 @@ public class input {
         int add = n + m;
         System.out.println("Addition = " + add);
         int sub = n - m;
+
         System.out.println("Substraction =" + sub);
         int multi = n * m;
         System.out.println("Multiplication =" + multi);
